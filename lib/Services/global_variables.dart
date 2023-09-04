@@ -1,0 +1,2 @@
+
+String loginUrlImage = 'https://media.istockphoto.com/id/915037756/video/modern-business-buildings-with-blue-sky-time-lapse-4k-tilt-down.jpg?s=640x640&k=20&c=B4lQyhdELAodP2tLjQKc2r-4MoE3cX6Kdc11KFHcZyA=' ;

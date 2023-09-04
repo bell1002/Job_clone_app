@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "285005881352",
+    "project_id": "job-clone-app-b860c",
+    "storage_bucket": "job-clone-app-b860c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285005881352:android:02a7cf9e5ac911929d71bd",
+        "android_client_info": {
+          "package_name": "gulshear.job_clone_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285005881352-fjvun7bsgtap2591jgi4qrp9ueh4aomv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuJySpoBbmHe5-1Q5EPQlEllWYFlfiZeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285005881352-fjvun7bsgtap2591jgi4qrp9ueh4aomv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
